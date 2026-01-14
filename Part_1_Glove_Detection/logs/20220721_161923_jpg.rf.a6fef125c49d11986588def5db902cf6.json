@@ -1,0 +1,55 @@
+{
+  "filename": "20220721_161923_jpg.rf.a6fef125c49d11986588def5db902cf6.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        6,
+        94,
+        341,
+        621
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.01,
+      "bbox": [
+        212,
+        539,
+        443,
+        639
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.01,
+      "bbox": [
+        239,
+        224,
+        442,
+        430
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        15,
+        91,
+        440,
+        549
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        0,
+        188,
+        159,
+        636
+      ]
+    }
+  ]
+}

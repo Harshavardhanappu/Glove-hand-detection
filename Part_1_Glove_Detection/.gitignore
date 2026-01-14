@@ -1,0 +1,10 @@
+# Ignore environments
+venv/
+__pycache__/
+
+# Ignore training artifacts
+runs/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

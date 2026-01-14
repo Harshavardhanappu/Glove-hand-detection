@@ -1,0 +1,85 @@
+{
+  "filename": "64IMG__jpg.rf.085552e7901368497a263a8c8744833b.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        57,
+        0,
+        291,
+        161
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        209,
+        0,
+        640,
+        338
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        341,
+        391,
+        639,
+        638
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.01,
+      "bbox": [
+        234,
+        0,
+        639,
+        203
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.01,
+      "bbox": [
+        458,
+        0,
+        639,
+        307
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        439,
+        3,
+        638,
+        300
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.01,
+      "bbox": [
+        235,
+        1,
+        387,
+        195
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.01,
+      "bbox": [
+        218,
+        0,
+        640,
+        225
+      ]
+    }
+  ]
+}
